@@ -186,7 +186,7 @@
             "DescID": "0xE1DDE8C0"
         },
         "Name": "Sense of Smell",
-        "Desc": "Never misses attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user's attacks/techniques/soultimates never miss, ignoring enemies' skills like Dodge or Night Guard (which usually guarantee avoiding soultimates)."
     },
     {
         "IDs": {
@@ -438,7 +438,7 @@
             "DescID": "0xE1DDE8C0"
         },
         "Name": "Eyesight A",
-        "Desc": "Never misses attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user's attacks/techniques/soultimates never miss, ignoring enemies' skills like Dodge or Night Guard (which usually guarantee avoiding soultimates)."
     },
     {
         "IDs": {
@@ -654,7 +654,7 @@
             "DescID": "0xE1DDE8C0"
         },
         "Name": "Eye See You",
-        "Desc": "Never misses attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user's attacks/techniques/soultimates never miss, ignoring enemies' skills like Dodge or Night Guard (which usually guarantee avoiding soultimates)."
     },
     {
         "IDs": {
