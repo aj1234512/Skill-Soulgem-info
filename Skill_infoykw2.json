@@ -33,7 +33,7 @@
             "DescID": "0x78D4B97A"
         },
         "Name": "Careless",
-        "Desc": "Prone to be dealt critical attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user has an increased +30% chance of being dealt critical attacks."
     },
     {
         "IDs": {
