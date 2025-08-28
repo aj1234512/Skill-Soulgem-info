@@ -1311,7 +1311,7 @@
             "DescID": "0xD4E2229E"
         },
         "Name": "Purrsistence",
-        "Desc": "Retains 1 HP after a knockout blow twice.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user has a 75% chance of retaining 1 HP after a knockout. This skill can be activated a maximum of twice per battle."
     },
     {
         "IDs": {
@@ -1707,6 +1707,6 @@
             "DescID": "0xD4E2229E"
         },
         "Name": "Going Nowhere",
-        "Desc": "Retains 1 HP after a knockout blow twice.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user has a 75% chance of retaining 1 HP after a knockout. This skill can be activated a maximum of twice per battle."
     }
 ]
