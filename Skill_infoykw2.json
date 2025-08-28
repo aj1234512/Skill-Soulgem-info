@@ -60,7 +60,7 @@
             "DescID": "0x2EEA7239"
         },
         "Name": "Triple-Header",
-        "Desc": "This Yo-kai's Technique will target all enemy Yo-kai.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "This Yo-kai's Technique will target all active enemy Yo-kai."
     },
     {
         "IDs": {
