@@ -582,7 +582,7 @@
             "DescID": "0x37952FBD"
         },
         "Name": "Wind Play",
-        "Desc": "Increases damage of own Wind attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases damage of the user's Wind element attacks by a 20%."
     },
     {
         "IDs": {
