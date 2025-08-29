@@ -195,7 +195,7 @@
             "DescID": "0x85B12DC4"
         },
         "Name": "Jar Guard",
-        "Desc": "Has extremely high chances to guard.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "While guarding, the damage dealt to the user is reduced by a 25% instead of a 50%. Ignored by skills like Guard Break."
     },
     {
         "IDs": {
