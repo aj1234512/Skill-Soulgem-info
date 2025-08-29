@@ -231,7 +231,7 @@
             "DescID": "0xA9F1BA1E"
         },
         "Name": "Snow Play",
-        "Desc": "Increases damage of the user's Ice element attacks by a 20%."
+        "Desc": "Increases damage of the user's Ice element attacks by 20%."
     },
     {
         "IDs": {
@@ -582,7 +582,7 @@
             "DescID": "0x37952FBD"
         },
         "Name": "Wind Play",
-        "Desc": "Increases damage of the user's Wind element attacks by a 20%."
+        "Desc": "Increases damage of the user's Wind element attacks by 20%."
     },
     {
         "IDs": {
@@ -915,7 +915,7 @@
             "DescID": "0x47FFDB32"
         },
         "Name": "Lightning Play",
-        "Desc": "Increases damage of own Lightning attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases damage of the user's Lightning element attacks by 20%."
     },
     {
         "IDs": {
@@ -1383,7 +1383,7 @@
             "DescID": "0x30F8EBA4"
         },
         "Name": "Water Play",
-        "Desc": "Increases damage of own Water attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases damage of the user's Water element attacks by 20%."
     },
     {
         "IDs": {
@@ -1392,7 +1392,7 @@
             "DescID": "0x0665C5C7"
         },
         "Name": "Fire Play",
-        "Desc": "Increases damage of own Fire attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases damage of the user's Fire element attacks by 20%."
     },
     {
         "IDs": {
