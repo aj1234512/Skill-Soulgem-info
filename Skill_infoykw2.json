@@ -87,7 +87,7 @@
             "DescID": "0x18775C5A"
         },
         "Name": "Rocky Terrain",
-        "Desc": "Blocks damage from all Earth skill attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user attracts all the enemy's Earth attacks while active. In case an Earth attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
     },
     {
         "IDs": {
@@ -96,7 +96,7 @@
             "DescID": "0x78B0D5BF"
         },
         "Name": "Alpine Wall",
-        "Desc": "Blocks damage from all Ice skill attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user attracts all the enemy's Ice attacks while active. In case an Ice attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
     },
     {
         "IDs": {
@@ -636,7 +636,7 @@
             "DescID": "0xFFCF715D"
         },
         "Name": "Fill 'Er Up",
-        "Desc": "Blocks damage from all Water skill attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user attracts all the enemy's Water attacks while active. In case a Water attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
     },
     {
         "IDs": {
@@ -717,7 +717,7 @@
             "DescID": "0x0FB7E529"
         },
         "Name": "Windbreaker",
-        "Desc": "Blocks damage from all Wind skill attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc":  "The user attracts all the enemy's Wind attacks while active. In case a Wind attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
     },
     {
         "IDs": {
@@ -1167,7 +1167,7 @@
             "DescID": "0x6F706CCC"
         },
         "Name": "Superconductor",
-        "Desc": "Blocks damage from all Lightning skill attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user attracts all the enemy's Lightning attacks while active. In case a Lightning attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
     },
     {
         "IDs": {
@@ -1464,7 +1464,7 @@
             "DescID": "0x88C841CB"
         },
         "Name": "Firewall",
-        "Desc": "Blocks damage from all Fire skill attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user attracts all the enemy's Fire attacks while active. In case a Fire attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
     },
     {
         "IDs": {
