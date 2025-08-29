@@ -231,7 +231,7 @@
             "DescID": "0xA9F1BA1E"
         },
         "Name": "Snow Play",
-        "Desc": "Increases damage of own Ice attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases damage of the user's Ice element techniques by a 20%."
     },
     {
         "IDs": {
