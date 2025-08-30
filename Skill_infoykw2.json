@@ -492,7 +492,7 @@
             "DescID": "0xEBC940D6"
         },
         "Name": "Magic Mist",
-        "Desc": "Helps recover adjacent Yo-kai's Soul Meters.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Adyacent yokais get 1 more points to fill their Soul Meter per turn."
     },
     {
         "IDs": {
@@ -519,7 +519,7 @@
             "DescID": "0x7B123182"
         },
         "Name": "Venocharge",
-        "Desc": "Soul Meter charges faster.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user gets 2 more points to fill their Soul Meter per turn."
     },
     {
         "IDs": {
