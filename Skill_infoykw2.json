@@ -1680,7 +1680,7 @@
             "DescID": "0x16ACD468"
         },
         "Name": "Juicy Goodness",
-        "Desc": "When defeated, allies' Soul Meters are filled.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When defeated, all active allies get 50 points to fill their Soul Meter."
     },
     {
         "IDs": {
