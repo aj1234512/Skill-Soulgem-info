@@ -1410,7 +1410,7 @@
             "DescID": "0x052099D7"
         },
         "Name": "Number One!",
-        "Desc": "SPD increases when front and center.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user's SPD increases by 30% when front and center."
     },
     {
         "IDs": {
@@ -1698,7 +1698,7 @@
             "DescID": "0xECA484CF"
         },
         "Name": "Thick Crust",
-        "Desc": "DEF increases when front and center.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user's DEF increases by 30% when front and center."
     },
     {
         "IDs": {
