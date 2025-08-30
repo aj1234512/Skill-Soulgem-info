@@ -87,7 +87,7 @@
             "DescID": "0x18775C5A"
         },
         "Name": "Rocky Terrain",
-        "Desc": "The user attracts all the enemy's Earth attacks while active. In case an Earth attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
+        "Desc": "The user attracts all the enemy's Earth attacks while active. In case an Earth attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted; while doing this, if the user is defeated, then souls which usually would be triggered once the user is defeated won't do it."
     },
     {
         "IDs": {
@@ -96,7 +96,7 @@
             "DescID": "0x78B0D5BF"
         },
         "Name": "Alpine Wall",
-        "Desc": "The user attracts all the enemy's Ice attacks while active. In case an Ice attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
+        "Desc": "The user attracts all the enemy's Ice attacks while active. In case an Ice attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted; while doing this, if the user is defeated, then souls which usually would be triggered once the user is defeated won't do it."
     },
     {
         "IDs": {
@@ -636,7 +636,7 @@
             "DescID": "0xFFCF715D"
         },
         "Name": "Fill 'Er Up",
-        "Desc": "The user attracts all the enemy's Water attacks while active. In case a Water attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
+        "Desc": "The user attracts all the enemy's Water attacks while active. In case a Water attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted; while doing this, if the user is defeated, then souls which usually would be triggered once the user is defeated won't do it."
     },
     {
         "IDs": {
@@ -717,7 +717,7 @@
             "DescID": "0x0FB7E529"
         },
         "Name": "Windbreaker",
-        "Desc":  "The user attracts all the enemy's Wind attacks while active. In case a Wind attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
+        "Desc":  "The user attracts all the enemy's Wind attacks while active. In case a Wind attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted; while doing this, if the user is defeated, then souls which usually would be triggered once the user is defeated won't do it."
     },
     {
         "IDs": {
@@ -1167,7 +1167,7 @@
             "DescID": "0x6F706CCC"
         },
         "Name": "Superconductor",
-        "Desc": "The user attracts all the enemy's Lightning attacks while active. In case a Lightning attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
+        "Desc": "The user attracts all the enemy's Lightning attacks while active. In case a Lightning attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted; while doing this, if the user is defeated, then souls which usually would be triggered once the user is defeated won't do it."
     },
     {
         "IDs": {
@@ -1464,7 +1464,7 @@
             "DescID": "0x88C841CB"
         },
         "Name": "Firewall",
-        "Desc": "The user attracts all the enemy's Fire attacks while active. In case a Fire attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted."
+        "Desc": "The user attracts all the enemy's Fire attacks while active. In case a Fire attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted; while doing this, if the user is defeated, then souls which usually would be triggered once the user is defeated won't do it."
     },
     {
         "IDs": {
