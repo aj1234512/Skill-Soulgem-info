@@ -510,7 +510,7 @@
             "DescID": "0x249AB6EA"
         },
         "Name": "Great Legs",
-        "Desc": "When in back, allies in front recover HP.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When in back, allies in front recover 1% of their total HP per turn."
     },
     {
         "IDs": {
@@ -1140,7 +1140,7 @@
             "DescID": "0xF5BFB58E"
         },
         "Name": "Got Your Back",
-        "Desc": "When in back, slowly refills front row's HP.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When in back, allies in front recover 1% of their total HP per turn."
     },
     {
         "IDs": {
@@ -1284,7 +1284,7 @@
             "DescID": "0xE298B4D0"
         },
         "Name": "Healer Moon",
-        "Desc": "When in back, slowly refills front row's HP.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When in back, allies in front recover 1% of their total HP per turn."
     },
     {
         "IDs": {
