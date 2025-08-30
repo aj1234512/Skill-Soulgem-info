@@ -816,7 +816,7 @@
             "DescID": "0x23F772F3"
         },
         "Name": "Downpour",
-        "Desc": "All Yo-kai receive more Water damage.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All Yo-kai receive 20% more Water damage."
     },
     {
         "IDs": {
@@ -888,7 +888,7 @@
             "DescID": "0x54F04265"
         },
         "Name": "Sunburn",
-        "Desc": "All Yo-kai receive more Fire damage.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All Yo-kai receive 20% more Fire damage."
     },
     {
         "IDs": {
@@ -1401,7 +1401,7 @@
             "DescID": "0xE1B98405"
         },
         "Name": "Sun Shield",
-        "Desc": "Guards against and returns all enemy Techniques.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "While guarding, the user "
     },
     {
         "IDs": {
