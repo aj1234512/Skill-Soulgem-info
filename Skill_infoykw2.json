@@ -1401,7 +1401,7 @@
             "DescID": "0xE1B98405"
         },
         "Name": "Sun Shield",
-        "Desc": "While guarding, the user "
+        "Desc": "While guarding, if the user is hit by an enemy damage technique, then the user won't be damaged and instead the enemy will take all the damage the user would take from the technique if the user wasn't guarding."
     },
     {
         "IDs": {
