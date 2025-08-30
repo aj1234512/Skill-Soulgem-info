@@ -744,7 +744,7 @@
             "DescID": "0xECC0E80A"
         },
         "Name": "Gambler",
-        "Desc": "High chance to give and take critical strikes.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc":  "The user has an increased +30% chance of being dealt and dealing critical attacks."
     },
     {
         "IDs": {
@@ -1455,7 +1455,7 @@
             "DescID": "0xECC0E80A"
         },
         "Name": "All or Nothing",
-        "Desc": "High chance to give and take critical strikes.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user has an increased +40% chance of being dealt and dealing critical attacks."
     },
     {
         "IDs": {
