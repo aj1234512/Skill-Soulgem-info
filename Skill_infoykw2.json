@@ -15,7 +15,7 @@
             "DescID": "0x9CCE7040"
         },
         "Name": "Lord of Light",
-        "Desc": "All adjacent Yo-kai's HP is slowly refilled.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Adjacent yokais recover 2% of their total HP per turn."
     },
     {
         "IDs": {
@@ -285,7 +285,7 @@
             "DescID": "0x23931E36"
         },
         "Name": "Prayer",
-        "Desc": "Gradually recovers HP of adjacent Yo-kai.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Adjacent yokais recover 1% of their total HP per turn."
     },
     {
         "IDs": {
@@ -321,7 +321,7 @@
             "DescID": "0x23931E36"
         },
         "Name": "How Sweet",
-        "Desc": "Gradually recovers HP of adjacent Yo-kai.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Adjacent yokais recover 1% of their total HP per turn."
     },
     {
         "IDs": {
@@ -843,7 +843,7 @@
             "DescID": "0x23931E36"
         },
         "Name": "Caring",
-        "Desc": "Gradually recovers HP of adjacent Yo-kai.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Adjacent yokais recover 1% of their total HP per turn."
     },
     {
         "IDs": {
@@ -1032,7 +1032,7 @@
             "DescID": "0x9CCE7040"
         },
         "Name": "Tasty Aroma",
-        "Desc": "All adjacent Yo-kai's HP is slowly refilled.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Adjacent yokais recover 2% of their total HP per turn."
     },
     {
         "IDs": {
@@ -1563,7 +1563,7 @@
             "DescID": "0x23931E36"
         },
         "Name": "Optimism Power",
-        "Desc": "Gradually recovers HP of adjacent Yo-kai.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Adjacent yokais recover 1% of their total HP per turn."
     },
     {
         "IDs": {
