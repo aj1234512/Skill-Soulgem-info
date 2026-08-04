@@ -6,7 +6,7 @@
             "DescID": "0xA4ECBAD4"
         },
         "Name": "Adrenaline",
-        "Desc": "Power increases each time a foe is defeated. User recieves tier 2 STR and SPR inspirit."
+        "Desc": "Power increases each time a foe is defeated. User receives tier 2 STR and SPR inspirit."
     },
     {
         "IDs": {
@@ -240,7 +240,7 @@
             "DescID": "0xCDF913DF"
         },
         "Name": "Herbivaura",
-        "Desc": "All Yo-kai find it harder to attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All Yo-kai find it harder to attack.\n(Decreases physical attack chance by 15%)"
     },
     {
         "IDs": {
@@ -357,7 +357,7 @@
             "DescID": "0x6500A81F"
         },
         "Name": "Bloodsucker",
-        "Desc": "Steals 2% of HP from each adjacent Yo-kai during each move.\n(User recovers 4% of HP if there are 2 adjacent Yokai while they lose 2%. And 2% only if there's only 1 adjacent Yokai.)"
+        "Desc": "Steals 2% of HP from each adjacent Yo-kai during each move.\n(User recovers 4% of HP if there are 2 adjacent Yokai while they lose 2%. And 2% if there's only 1 adjacent Yokai.)"
     },
     {
         "IDs": {
@@ -483,7 +483,7 @@
             "DescID": "0x72A47DA9"
         },
         "Name": "Too Afraid",
-        "Desc": "User loafs around a lot.\n(Skill cannot be affected by other skills.) (Provisional description, still too vague)"
+        "Desc": "User loafs around a lot.\n(Skill cannot be affected by other skills.)"
     },
     {
         "IDs": {
@@ -555,7 +555,7 @@
             "DescID": "0xF5DBD94B"
         },
         "Name": "Alpha",
-        "Desc": "With an adjacent Omega Yo-kai, SPR increases.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases user's SPR by 3% if next to an Omega Yo-kai.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -726,7 +726,7 @@
             "DescID": "0xF2B61D52"
         },
         "Name": "Prediction",
-        "Desc": "All ally Yokai has +15% chance of dodging enemy attacks. (Can be stacked)"
+        "Desc": "User has +15% chance of dodging enemy attacks. (Can be stacked)"
     },
     {
         "IDs": {
@@ -735,7 +735,7 @@
             "DescID": "0xAEF812C2"
         },
         "Name": "Rice and Dice",
-        "Desc": "User deals +50% more against Oni Yokai."
+        "Desc": "User deals +50% more against Oni Yokai.\n(Oni Yokai: Gargaros, Ogralus, Orcanos, Leadoni, Mynimo, Suspicioni, Tantroni, Contrarioni, Gilgaros, Swelton, Eyesoar, Eyellure, Blabeye, Takoyakid, Takoyaking)"
     },
     {
         "IDs": {
@@ -879,7 +879,7 @@
             "DescID": "0x82DCE9DD"
         },
         "Name": "Omega",
-        "Desc": "With an adjacent Alpha Yo-kai, STR increases.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases user's STR by 3% if next to an Omega Yo-kai.\n(Does not stack.)"
     },
     {
         "IDs": {
