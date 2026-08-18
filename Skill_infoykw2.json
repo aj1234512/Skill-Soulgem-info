@@ -105,7 +105,7 @@
             "DescID": "0x752E019D"
         },
         "Name": "Bladed Body",
-        "Desc": "User deals 25% of the recieved damage at attacker."
+        "Desc": "User sends back 25% of the recieved Physical damage back to attacker."
     },
     {
         "IDs": {
@@ -132,7 +132,7 @@
             "DescID": "0x29E3DAE5"
         },
         "Name": "Windshield",
-        "Desc": "User takes -30% less damage from Wind elemental attack."
+        "Desc": "User recives -30% damage from Wind Techiques.\n(Skills that boost damage apply after this skill.)"
     },
     {
         "IDs": {
@@ -168,7 +168,7 @@
             "DescID": "0x75C9B9B0"
         },
         "Name": "Bronze Guard",
-        "Desc": "User recives -30% damage from Earth and Wind attacks."
+        "Desc": "User recives -30% damage from Earth and Wind Techiques."
     },
     {
         "IDs": {
@@ -213,7 +213,7 @@
             "DescID": "0x2A413ED8"
         },
         "Name": "Soulful Promise",
-        "Desc": "All Fleshy Souls Yo-kai recieve +10% SPD boost while this Yokai is alive."
+        "Desc": "All Fleshy Souls Yo-kai recieve +10% SPD boost while this Yokai is alive.\n(Can stack.)"
     },
     {
         "IDs": {
@@ -294,7 +294,7 @@
             "DescID": "0x4AE2DBF8"
         },
         "Name": "Spirit Guard",
-        "Desc": "No elemental-weakness damage if guarding.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Nullifies damage from techniques that are effective against this Yo-kai while guarding."
     },
     {
         "IDs": {
@@ -303,7 +303,7 @@
             "DescID": "0x40F673EE"
         },
         "Name": "You First",
-        "Desc": "Another Yo-kai will fight for this one.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Passes combat actions to the adjacent right ally. If unavailable, passes to the left ally."
     },
     {
         "IDs": {
@@ -339,7 +339,7 @@
             "DescID": "0xD99B4E91"
         },
         "Name": "Waterproof",
-        "Desc": "User recives -30% damage from Water attacks."
+        "Desc": "User recives -30% damage from Water Techiques.\n(Skills that boost damage apply after this skill.)"
     },
     {
         "IDs": {
@@ -411,7 +411,7 @@
             "DescID": "0x40921F2B"
         },
         "Name": "Fire Watchout",
-        "Desc": "User recives -30% damage from Fire attacks."
+        "Desc": "User recives -30% damage from Fire Techiques.\n(Skills that boost damage apply after this skill.)"
     },
     {
         "IDs": {
@@ -501,7 +501,7 @@
             "DescID": "0xC7EDBBC9"
         },
         "Name": "Hairnet",
-        "Desc": "Does not get Inspirited by enemies.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Does not get inspirited by Inspirits.\n(Unless it's guaranteed and doesn't do damage.)"
     },
     {
         "IDs": {
@@ -528,7 +528,7 @@
             "DescID": "0x3E236396"
         },
         "Name": "Sandbag",
-        "Desc": "User recives -30% damage from Earth attacks."
+        "Desc": "User recives -30% damage from Earth Techiques.\n(Skills that boost damage apply after this skill.)"
     },
     {
         "IDs": {
@@ -537,7 +537,7 @@
             "DescID": "0x5EE4EA73"
         },
         "Name": "Hanging In",
-        "Desc": "Won't get bad effects of enemy Inspirits.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When user gets insprited, negative effects don't apply."
     },
     {
         "IDs": {
@@ -564,7 +564,7 @@
             "DescID": "0xA3E51208"
         },
         "Name": "Electro Field",
-        "Desc": "Lightning damage triggers DEF boost.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Upon recieving damage from Lightning technique,\n user recieves Tier 3 DEF Inspirit Buff."
     },
     {
         "IDs": {
@@ -591,7 +591,7 @@
             "DescID": "0xC7EDBBC9"
         },
         "Name": "Saintly Scales",
-        "Desc": "Does not get Inspirited by enemies.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Does not get inspirited by negative Inspirits.\n(Unless it's guaranteed and doesn't do damage.)"
     },
     {
         "IDs": {
@@ -600,7 +600,7 @@
             "DescID": "0xFFAB1D98"
         },
         "Name": "Blessed Body",
-        "Desc": "When defeated, Yo-kai in the front recover HP.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When defeated, Yo-kai in the front recover around 50% of their total HP."
     },
     {
         "IDs": {
@@ -609,7 +609,7 @@
             "DescID": "0x6BBF4CE8"
         },
         "Name": "Grip on You",
-        "Desc": "Amount of absorbed HP increased.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User absorbs +50% more HP."
     },
     {
         "IDs": {
@@ -618,7 +618,7 @@
             "DescID": "0xC7EDBBC9"
         },
         "Name": "Miraculous Scales",
-        "Desc": "Does not get Inspirited by enemies.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Does not get inspirited by negative Inspirits.\n(Unless it's guaranteed and doesn't do damage.)"
     },
     {
         "IDs": {
@@ -645,7 +645,7 @@
             "DescID": "0x02AAE5E3"
         },
         "Name": "Step Up",
-        "Desc": "Gets one preemptive attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When in front, user attacks first, then resets all active yo-kai AP.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -663,7 +663,7 @@
             "DescID": "0x66A24C22"
         },
         "Name": "Mirror Body",
-        "Desc": "Sends 1/2 of Technique damage back at foe.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User sends back 25% of the damage from received Techniques back to attacker."
     },
     {
         "IDs": {
@@ -672,7 +672,7 @@
             "DescID": "0x02CE8926"
         },
         "Name": "Silver Guard",
-        "Desc": "Takes less Fire and Ice damage.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Decreases damage from Ice and Fire Techniques by -30%.\n(Skills that boost damage apply after this skill.)"
     },
     {
         "IDs": {
@@ -681,7 +681,7 @@
             "DescID": "0x0FD389EC"
         },
         "Name": "Good Fortune",
-        "Desc": "Will increase money at the end of a battle.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Player recieves +20% more money at the end of the battle."
     },
     {
         "IDs": {
@@ -690,7 +690,7 @@
             "DescID": "0x1CB87C7E"
         },
         "Name": "Brother's Vow",
-        "Desc": "Stat boosts for adjacent Yo-kai with same Skill.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases all Stats by 1% if there's adjacent Yo-kai with same skill.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -699,7 +699,7 @@
             "DescID": "0x4A86B73D"
         },
         "Name": "Bony Bond",
-        "Desc": "Gives a DEF boost to all Bony Spirits Yo-kai.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All Bony Souls Yo-kai recieve +10% DEF boost while this Yokai is alive.\n(Can stack.)"
     },
     {
         "IDs": {
@@ -717,7 +717,7 @@
             "DescID": "0x0FB7E529"
         },
         "Name": "Windbreaker",
-        "Desc":  "The user attracts all the enemy's Wind attacks while active. In case a Wind attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted; while doing this, if the user is defeated, then souls which usually would be triggered once the user is defeated won't do it."
+        "Desc": "The user attracts all the enemy's Wind attacks while active. In case a Wind attack targets multiple allies, the user will instead take the attack the same amount of times as allies targeted; while doing this, if the user is defeated, then souls which usually would be triggered once the user is defeated won't do it."
     },
     {
         "IDs": {
@@ -762,7 +762,7 @@
             "DescID": "0xAE9C7E07"
         },
         "Name": "Insulator",
-        "Desc": "User recives -30% less damage from Lightning attacks."
+        "Desc": "User recives -30% less damage from Lightning Techiques.\n(Skills that boost damage apply after this skill.)"
     },
     {
         "IDs": {
@@ -798,7 +798,7 @@
             "DescID": "0x479BB7F7"
         },
         "Name": "Carefree Spirit",
-        "Desc": "Only receives half damage from an attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recieves only 50% of the damage from attacks. (Doesn't affect attacks that deal % based damage)"
     },
     {
         "IDs": {
@@ -807,7 +807,7 @@
             "DescID": "0x1B566C8F"
         },
         "Name": "Killer Comeback",
-        "Desc": "Can immediately counterattack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User sends back 25% of the recieved Physical damage back to attacker."
     },
     {
         "IDs": {
@@ -825,7 +825,7 @@
             "DescID": "0xE6D4401C"
         },
         "Name": "Sludge Grudge",
-        "Desc": "When defeated, takes revenge on enemy.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Deals 50 BP Physical damage to the attacker when defeated.\n Damage scales with user's STR."
     },
     {
         "IDs": {
@@ -834,7 +834,7 @@
             "DescID": "0xDE92E64D"
         },
         "Name": "Highlander",
-        "Desc": "Attack power increases after beating enemies.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Power increases each time a foe is defeated. User receives tier 2 STR and SPR inspirit."
     },
     {
         "IDs": {
@@ -852,7 +852,7 @@
             "DescID": "0xD99B4E91"
         },
         "Name": "Moist Skin",
-        "Desc": "Takes less damage from Water attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recives -30% damage from Water Techniques.\n(Skills that boost damage apply after this skill.)"
     },
     {
         "IDs": {
@@ -897,7 +897,7 @@
             "DescID": "0x02AAE5E3"
         },
         "Name": "In a Flash",
-        "Desc": "Gets one preemptive attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When in front, user attacks first, then resets all active yo-kai AP.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -933,7 +933,7 @@
             "DescID": "0x4E2DFBDC"
         },
         "Name": "Washed Out",
-        "Desc": "Stats decrease when negatively Inspirited.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User's stats decrease by 10% when inspired by enemy."
     },
     {
         "IDs": {
@@ -969,7 +969,7 @@
             "DescID": "0x0FD389EC"
         },
         "Name": "Stealing",
-        "Desc": "Will increase money at the end of a battle.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Player recieves +20% more money at the end of the battle."
     },
     {
         "IDs": {
@@ -978,7 +978,7 @@
             "DescID": "0x016C6D1B"
         },
         "Name": "Spin-no-rama",
-        "Desc": "When in front, enemies can't change positions.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Prevents front-row enemies from moving.\n Cancelled out by spin-extension skills."
     },
     {
         "IDs": {
@@ -987,7 +987,7 @@
             "DescID": "0x2D489604"
         },
         "Name": "Death Sphere",
-        "Desc": "All healing Techniques will be weaker.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Reduces all healing (Techniques, skills, and %-based) by 50% for all Yo-kai."
     },
     {
         "IDs": {
@@ -996,7 +996,7 @@
             "DescID": "0x8B8D1DDB"
         },
         "Name": "Shark Skin",
-        "Desc": "Skin deals damage to attacking foes.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User sends back 25% of the recieved Physical damage back to attacker."
     },
     {
         "IDs": {
@@ -1005,7 +1005,7 @@
             "DescID": "0x66C620E7"
         },
         "Name": "Zap Away",
-        "Desc": "Steals an item while attacking an enemy.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Physical attacks have a 25% chance to destroy the target's equipment."
     },
     {
         "IDs": {
@@ -1014,7 +1014,7 @@
             "DescID": "0xBAFE2349"
         },
         "Name": "Noise Pollution",
-        "Desc": "All Yo-kai receive more damage from Inspirits.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All Yo-kai receive +50% more damage from negative Inspirits."
     },
     {
         "IDs": {
@@ -1023,7 +1023,7 @@
             "DescID": "0xECC0E80A"
         },
         "Name": "Insecure",
-        "Desc": "High chance to give and take critical strikes.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user has an increased +30% chance of dealing and receiving critical attacks."
     },
     {
         "IDs": {
@@ -1050,7 +1050,7 @@
             "DescID": "0x02AAE5E3"
         },
         "Name": "Me First!",
-        "Desc": "Gets one preemptive attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When in front, user attacks first, then resets all active yo-kai AP.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -1059,7 +1059,7 @@
             "DescID": "0x335A0F99"
         },
         "Name": "Acrobat",
-        "Desc": "Counterattacks right after dodging enemy.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When an enemy (even once) misses the user with a Physical, Technique, or Soultimate move, user deals 50 BP STR-based damage back to enemy."
     },
     {
         "IDs": {
@@ -1068,7 +1068,7 @@
             "DescID": "0xD3EB8A42"
         },
         "Name": "Bitter Rice",
-        "Desc": "May attack an ally.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User has 2% chance of attacking an ally."
     },
     {
         "IDs": {
@@ -1077,7 +1077,7 @@
             "DescID": "0x503F6241"
         },
         "Name": "Gold Guard",
-        "Desc": "Takes less Lightning and Water damage.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Decreases damage from Lightning and Water Techniques by -30%.\n(Skills that boost damage apply after this skill.)"
     },
     {
         "IDs": {
@@ -1086,7 +1086,7 @@
             "DescID": "0x5736CA9D"
         },
         "Name": "Seaweed Samba",
-        "Desc": "Boosts all adjacent Yo-kai's STR.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Boosts all adjacent Yo-kai's STR by 20% while user alive.\n(Can stack.)"
     },
     {
         "IDs": {
@@ -1095,7 +1095,7 @@
             "DescID": "0x7FDD11A6"
         },
         "Name": "Second Wind",
-        "Desc": "Restores a chunk of HP to allies in need.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Triggers when an ally's HP falls to 10% or lower.\n Restores ally's HP equal to 150% of the user's SPR."
     },
     {
         "IDs": {
@@ -1104,7 +1104,7 @@
             "DescID": "0x66C620E7"
         },
         "Name": "Sticky Fingers",
-        "Desc": "Steals an item while attacking an enemy.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Physical attacks have a 25% chance to destroy the target's equipment."
     },
     {
         "IDs": {
@@ -1122,7 +1122,7 @@
             "DescID": "0x3453A745"
         },
         "Name": "Revenge",
-        "Desc": "Reflects some damage back to foe.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User sends back 25% of the recieved Physical damage back to attacker."
     },
     {
         "IDs": {
@@ -1149,7 +1149,7 @@
             "DescID": "0x91B71C4F"
         },
         "Name": "Platinum Guard",
-        "Desc": "Weakens Ice, Wind, and Water elemental hits.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Decreases damage from Ice, Wind and Water Techniques by -20%.\n(Skills that boost damage apply after this skill.)"
     },
     {
         "IDs": {
@@ -1230,7 +1230,7 @@
             "DescID": "0xB08EE79A"
         },
         "Name": "Bear Care",
-        "Desc": "Can recover once when low on HP.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Heals the user once by 50% of its total HP when HP drop to 25% or below."
     },
     {
         "IDs": {
@@ -1239,7 +1239,7 @@
             "DescID": "0x11A57CB4"
         },
         "Name": "Spiky Guard",
-        "Desc": "Deals damage back to foe while guarding.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User sends back 150% of the recieved Physical damage back to attacker while guarding."
     },
     {
         "IDs": {
@@ -1248,7 +1248,7 @@
             "DescID": "0x6CD288F1"
         },
         "Name": "Vampiric",
-        "Desc": "Absorbs foe's HP with regular attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Restores HP equal to 30% of damage dealt by Physical attacks."
     },
     {
         "IDs": {
@@ -1266,7 +1266,7 @@
             "DescID": "0x08DA2130"
         },
         "Name": "Haiwax",
-        "Desc": "Returns all negative Inspiriting attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Returns all negative Inspirits back.\n(Does not work on Soultimates)"
     },
     {
         "IDs": {
@@ -1275,7 +1275,7 @@
             "DescID": "0x435497D3"
         },
         "Name": "Loiterer",
-        "Desc": "Will recover a little HP when Loafing around.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recovers 30% of HP when Loafing around."
     },
     {
         "IDs": {
@@ -1293,7 +1293,7 @@
             "DescID": "0x1CB87C7E"
         },
         "Name": "Mutt's Paradise",
-        "Desc": "Stat boosts for adjacent Yo-kai with same Skill.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases all Stats by 1% if there's adjacent Yo-kai with same skill.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -1302,7 +1302,7 @@
             "DescID": "0x3E236396"
         },
         "Name": "Digging In",
-        "Desc": "Takes less damage from Earth attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recives -30% damage from Earth Techiques.\n(Skills that boost damage apply after this skill.)"
     },
     {
         "IDs": {
@@ -1320,7 +1320,7 @@
             "DescID": "0xEC433CE2"
         },
         "Name": "Center Stage",
-        "Desc": "All stats increase when in front and center.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recives 15% buff to all Stats while standing in center."
     },
     {
         "IDs": {
@@ -1329,7 +1329,7 @@
             "DescID": "0x5736CA9D"
         },
         "Name": "Gimme Twenty",
-        "Desc": "Boosts all adjacent Yo-kai's STR.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Boosts all adjacent Yo-kai's STR by 20% while user alive.\n(Can stack.)"
     },
     {
         "IDs": {
@@ -1338,7 +1338,7 @@
             "DescID": "0x445D3F0F"
         },
         "Name": "Lick It Clean",
-        "Desc": "Yo-kai gets purified when healing allies.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Whenever the user heals a Yo-kai,\n there is a 50% chance to also purify them."
     },
     {
         "IDs": {
@@ -1356,7 +1356,7 @@
             "DescID": "0xA4ECBAD4"
         },
         "Name": "Sword Hunting",
-        "Desc": "Power increases each time a foe is defeated.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Power increases each time a foe is defeated. User receives tier 2 STR and SPR inspirit."
     },
     {
         "IDs": {
@@ -1419,7 +1419,7 @@
             "DescID": "0x6CD288F1"
         },
         "Name": "Snitch",
-        "Desc": "Absorbs foe's HP with regular attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Restores HP equal to 30% of damage dealt by Physical attacks."
     },
     {
         "IDs": {
@@ -1428,7 +1428,7 @@
             "DescID": "0x61CF883B"
         },
         "Name": "Cursed Skin",
-        "Desc": "All stats will increase when Inspirited by foe.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Grants a Tier 2 ALL Inspirit buff whenever the user receives a negative Inspirit."
     },
     {
         "IDs": {
@@ -1473,7 +1473,7 @@
             "DescID": "0x1B32004A"
         },
         "Name": "Starver",
-        "Desc": "Increases the effect of food on allies.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All food restores 20% more HP for ally."
     },
     {
         "IDs": {
@@ -1482,7 +1482,7 @@
             "DescID": "0x539D867C"
         },
         "Name": "Gust o' Gusto",
-        "Desc": "When in the back, increases allies' SPD.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases all allies SPD by +5% while being in the back.\n(Can stack.)"
     },
     {
         "IDs": {
@@ -1491,7 +1491,7 @@
             "DescID": "0x4DEB7324"
         },
         "Name": "Soul Snacker",
-        "Desc": "Recovers HP after an enemy is defeated.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Recovers 20% of user's total HP after defeating an enemy."
     },
     {
         "IDs": {
@@ -1536,7 +1536,7 @@
             "DescID": "0xBDF78B95"
         },
         "Name": "Gassy Sphere",
-        "Desc": "Decreases accuracy of enemies.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Decreases accuracy of enemies by 10%.\n(Can stack.)"
     },
     {
         "IDs": {
@@ -1545,7 +1545,7 @@
             "DescID": "0x3DE5EB6E"
         },
         "Name": "Courageous Spirit",
-        "Desc": "Power increases when an ally is defeated.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Grants Tier 4 STR and SPR Inspirit buff when ally is defeated."
     },
     {
         "IDs": {
@@ -1581,7 +1581,7 @@
             "DescID": "0xC7EDBBC9"
         },
         "Name": "Matchless Shell",
-        "Desc": "Does not get Inspirited by enemies.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Does not get inspirited by Inspirits.\n(Unless it's guaranteed and doesn't do damage.)"
     },
     {
         "IDs": {
@@ -1599,7 +1599,7 @@
             "DescID": "0xF8A2B544"
         },
         "Name": "Lickaway",
-        "Desc": "Purifies adjacent allies.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Whenever it's user's turn, there is a 50% chance to purify one of allies instead."
     },
     {
         "IDs": {
@@ -1626,7 +1626,7 @@
             "DescID": "0x49245300"
         },
         "Name": "Stiff Skin",
-        "Desc": "Takes less damage from Ice attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recives -30% damage from Ice Techiques.\n(Skills that boost damage apply after this skill.)"
     },
     {
         "IDs": {
@@ -1662,7 +1662,7 @@
             "DescID": "0xF8C6D981"
         },
         "Name": "Born Winner",
-        "Desc": "Dodges attacks like you wouldn't believe!\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases chance of dodging attacks by 25%.\n(Can stack)"
     },
     {
         "IDs": {
@@ -1671,7 +1671,7 @@
             "DescID": "0x85D54101"
         },
         "Name": "Clairvoidance",
-        "Desc": "Improves ability to dodge enemy attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases chance of dodging by 15%.\n(Can stack)"
     },
     {
         "IDs": {
