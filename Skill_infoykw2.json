@@ -645,7 +645,7 @@
             "DescID": "0x02AAE5E3"
         },
         "Name": "Step Up",
-        "Desc": "When in front, user attacks first, then resets all active yo-kai AP.\n(Does not stack.)"
+        "Desc": "When in front, user attacks first once per battle, then sets all active yo-kai AP to 0 and puts the next yo-kai at the end of the turn order.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -897,7 +897,7 @@
             "DescID": "0x02AAE5E3"
         },
         "Name": "In a Flash",
-        "Desc": "When in front, user attacks first, then resets all active yo-kai AP.\n(Does not stack.)"
+        "Desc": "When in front, user attacks first once per battle, then sets all active yo-kai AP to 0 and puts the next yo-kai at the end of the turn order.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -1050,7 +1050,7 @@
             "DescID": "0x02AAE5E3"
         },
         "Name": "Me First!",
-        "Desc": "When in front, user attacks first, then resets all active yo-kai AP.\n(Does not stack.)"
+        "Desc": "When in front, user attacks first once per battle, then sets all active yo-kai AP to 0 and puts the next yo-kai at the end of the turn order.\n(Does not stack.)"
     },
     {
         "IDs": {
