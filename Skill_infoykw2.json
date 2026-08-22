@@ -1014,7 +1014,7 @@
             "DescID": "0xBAFE2349"
         },
         "Name": "Noise Pollution",
-        "Desc": "All Yo-kai receive +50% more damage from negative Inspirits."
+        "Desc": "All Yo-kai receive +50% more damage from negative Inspirits.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -1590,7 +1590,7 @@
             "DescID": "0xE6B02CD9"
         },
         "Name": "Linked Together",
-        "Desc": "Stat boosts for adjacent Yo-kai with same Skill.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Increases all Stats by 1% if there's adjacent Yo-kai with same skill.\n(Does not stack.)"
     },
     {
         "IDs": {
