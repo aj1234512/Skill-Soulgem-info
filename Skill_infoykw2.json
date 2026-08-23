@@ -294,7 +294,7 @@
             "DescID": "0x4AE2DBF8"
         },
         "Name": "Spirit Guard",
-        "Desc": "Nullifies damage from techniques that are effective against this Yo-kai while guarding."
+        "Desc": "Nullifies damage from techniques that are effective against this Yo-kai while guarding.\n(Negated by Oldness Zone and other skills that makes Yokai unable to dodge.)"
     },
     {
         "IDs": {
