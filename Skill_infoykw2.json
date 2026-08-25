@@ -735,7 +735,7 @@
             "DescID": "0xAEF812C2"
         },
         "Name": "Rice and Dice",
-        "Desc": "User deals +50% more against Oni Yokai.\n(Oni Yokai: Gargaros, Ogralus, Orcanos, Leadoni, Mynimo, Suspicioni, Tantroni, Contrarioni, Gilgaros, Swelton, Eyesoar, Eyellure, Blabeye, Takoyakid, Takoyaking)"
+        "Desc": "User deals +50% more damage against Oni Yokai.\n(Oni Yokai: Gargaros, Ogralus, Orcanos, Leadoni, Mynimo, Suspicioni, Tantroni, Contrarioni, Gilgaros, Swelton, Eyesoar, Eyellure, Blabeye, Takoyakid, Takoyaking)"
     },
     {
         "IDs": {
