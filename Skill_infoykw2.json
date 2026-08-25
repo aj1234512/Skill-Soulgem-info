@@ -1095,7 +1095,7 @@
             "DescID": "0x7FDD11A6"
         },
         "Name": "Second Wind",
-        "Desc": "Triggers when an ally's HP falls to 10% or lower.\n Restores ally's HP equal to 150% of the user's SPR."
+        "Desc": "Triggers when an ally's HP falls to 10% or lower.\n Restores ally's HP equal to 150% of the user's heal."
     },
     {
         "IDs": {
