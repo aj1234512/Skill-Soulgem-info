@@ -1437,7 +1437,7 @@
             "DescID": "0x5D460E4E"
         },
         "Name": "Carnivaura",
-        "Desc": "All Yo-kai find it harder to attack.\n(Increases physical attack chance by 500%)"
+        "Desc": "All Yo-kai find it easier to attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
     },
     {
         "IDs": {
@@ -1554,7 +1554,7 @@
             "DescID": "0x4D8F1FE1"
         },
         "Name": "Oldness Zone",
-        "Desc": "While user is in front, Yo-kai can dodge or use dodge skills."
+        "Desc": "While user is in front, no Yo-kai can dodge or use dodge skills."
     },
     {
         "IDs": {
