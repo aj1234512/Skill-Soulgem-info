@@ -366,7 +366,7 @@
             "DescID": "0x37F14378"
         },
         "Name": "Know Your Place",
-        "Desc": "Upon receiving a lethal hit, nullifies the damage and restores 999 HP.\n Then, deals 999 damage to a random adjacent Yo-kai (can trigger 1HP Soul)."
+        "Desc": "Upon receiving a lethal hit, nullifies the damage and restores 999 HP.\n Then, deals 999 damage to a random adjacent Yo-kai (can trigger 1HP Soul/Skill)."
     },
     {
         "IDs": {
@@ -420,7 +420,7 @@
             "DescID": "0x3AEC43B2"
         },
         "Name": "Make Amends",
-        "Desc": "User restores one of ally's HP by based on SPR stat.\n(Skill has 50BP.)"
+        "Desc": "When user loafs, restores one of ally's HP by based on user's SPR stat.\n(Skill has 50BP.)"
     },
     {
         "IDs": {
@@ -627,7 +627,7 @@
             "DescID": "0x0C150114"
         },
         "Name": "Penetrate",
-        "Desc": "Always deals elemental damage.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User ignores elemental resistances when attacking."
     },
     {
         "IDs": {
@@ -879,7 +879,7 @@
             "DescID": "0x82DCE9DD"
         },
         "Name": "Omega",
-        "Desc": "Increases user's STR by 3% if next to an Omega Yo-kai.\n(Does not stack.)"
+        "Desc": "Increases user's STR by 3% if next to an Alpha Yo-kai.\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -951,7 +951,7 @@
             "DescID": "0xEB2EF8FB"
         },
         "Name": "Tongue Twister",
-        "Desc": "Ignore foe's guard effect when attacking.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User's physical attack ignore enemy's Guard and deal 100% of the damage."
     },
     {
         "IDs": {
@@ -960,7 +960,7 @@
             "DescID": "0x3D8187AB"
         },
         "Name": "Rest in Pieces",
-        "Desc": "Prevents all Yo-kai from being revived.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "While the user is alive, no Yo-kai can be revived."
     },
     {
         "IDs": {
@@ -1185,7 +1185,7 @@
             "DescID": "0x8FA585D2"
         },
         "Name": "Free to Be",
-        "Desc": "Allies recover HP when unable to attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When ally loafs, user restores this ally's HP by based on user's SPR stat.\n(Skill has 50BP.)"
     },
     {
         "IDs": {
@@ -1221,7 +1221,7 @@
             "DescID": "0x05A34D3F"
         },
         "Name": "Long Lasting",
-        "Desc": "Good Inspirits will last longer.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Extends duration of positive Inpsirits on user by 5 additional turns."
     },
     {
         "IDs": {
@@ -1446,7 +1446,7 @@
             "DescID": "0xA995D6DB"
         },
         "Name": "Born Lucky",
-        "Desc": "Dodges and returns every enemy attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User has 30% chance to dodge enemy Technique."
     },
     {
         "IDs": {
@@ -1509,7 +1509,7 @@
             "DescID": "0xA995D6DB"
         },
         "Name": "Twinkle Toes",
-        "Desc": "Dodges and returns every enemy attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User has 30% chance to dodge enemy Technique."
     },
     {
         "IDs": {
@@ -1518,7 +1518,7 @@
             "DescID": "0x8FC1E917"
         },
         "Name": "Mine",
-        "Desc": "Will take good Inspirits on allies for itself.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When in front, all positive Inspirits are redirected to user.\n(Doesn't affect Soultimates or work in boss battles.\nIf 2 Yo-kai with this skill in front, target picked randomly between them)"
     },
     {
         "IDs": {
@@ -1554,7 +1554,7 @@
             "DescID": "0x4D8F1FE1"
         },
         "Name": "Oldness Zone",
-        "Desc": "No Yo-kai will be able to dodge.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "While user is in front, no Yo-kai can dodge or use dodge skills."
     },
     {
         "IDs": {
@@ -1572,7 +1572,7 @@
             "DescID": "0x9CAA1C85"
         },
         "Name": "Strict",
-        "Desc": "All allies will Loaf around less.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Reduces chance of allies loafing by 10%.\n(Affects skill that increase loafing.)"
     },
     {
         "IDs": {
@@ -1608,7 +1608,7 @@
             "DescID": "0x59892E6A"
         },
         "Name": "Hard Worker",
-        "Desc": "Receives more experience points.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User recieves +20% more experience points at the end of the battle."
     },
     {
         "IDs": {
@@ -1653,7 +1653,7 @@
             "DescID": "0xA3817ECD"
         },
         "Name": "Guard Break",
-        "Desc": "Ignore foe's guard effect when attacking.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User's physical attack ignore enemy's Guard and deal 100% of the damage."
     },
     {
         "IDs": {
