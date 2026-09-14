@@ -1554,7 +1554,7 @@
             "DescID": "0x4D8F1FE1"
         },
         "Name": "Oldness Zone",
-        "Desc": "While user is in front, Yo-kai can dodge or use dodge skills."
+        "Desc": "While user is in front, no Yo-kai can dodge or use dodge skills."
     },
     {
         "IDs": {
