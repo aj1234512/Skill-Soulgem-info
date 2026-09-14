@@ -1437,7 +1437,7 @@
             "DescID": "0x5D460E4E"
         },
         "Name": "Carnivaura",
-        "Desc": "All Yo-kai find it harder to attack.\n(Increases physical attack chance by 500%)"
+        "Desc": "All Yo-kai find it easier to attack.\n(Increases physical attack chance by 500%)"
     },
     {
         "IDs": {
