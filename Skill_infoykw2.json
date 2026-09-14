@@ -555,7 +555,7 @@
             "DescID": "0xF5DBD94B"
         },
         "Name": "Alpha",
-        "Desc": "Increases user's SPR by 3% if next to an Omega Yo-kai.\n(Does not stack.)"
+        "Desc": "Increases user's SPR by 30% if next to an Omega Yo-kai.\n(Boost is in same category as positive inspirit)\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -690,7 +690,7 @@
             "DescID": "0x1CB87C7E"
         },
         "Name": "Brother's Vow",
-        "Desc": "Increases all Stats by 1% if there's adjacent Yo-kai with same skill.\n(Does not stack.)"
+        "Desc": "Increases all Stats by 10% if there's adjacent Yo-kai with same skill.\n(Boost is in same category as positive inspirit)\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -879,7 +879,7 @@
             "DescID": "0x82DCE9DD"
         },
         "Name": "Omega",
-        "Desc": "Increases user's STR by 3% if next to an Alpha Yo-kai.\n(Does not stack.)"
+        "Desc": "Increases user's STR by 30% if next to an Alpha Yo-kai.\n(Boost is in same category as positive inspirit)\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -1293,7 +1293,7 @@
             "DescID": "0x1CB87C7E"
         },
         "Name": "Mutt's Paradise",
-        "Desc": "Increases all Stats by 1% if there's adjacent Yo-kai with same skill.\n(Does not stack.)"
+        "Desc": "Increases all Stats by 10% if there's adjacent Yo-kai with same skill.\n(Boost is in same category as positive inspirit)\n(Does not stack.)"
     },
     {
         "IDs": {
@@ -1437,7 +1437,7 @@
             "DescID": "0x5D460E4E"
         },
         "Name": "Carnivaura",
-        "Desc": "All Yo-kai find it easier to attack.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "All Yo-kai find it easier to attack.\n(Increases physical attack chance by 500%)"
     },
     {
         "IDs": {
@@ -1590,7 +1590,7 @@
             "DescID": "0xE6B02CD9"
         },
         "Name": "Linked Together",
-        "Desc": "Increases all Stats by 1% if there's adjacent Yo-kai with same skill.\n(Does not stack.)"
+        "Desc": "Increases all Stats by 10% if there's adjacent Yo-kai with same skill.\n(Boost is in same category as positive inspirit)\n(Does not stack.)"
     },
     {
         "IDs": {
