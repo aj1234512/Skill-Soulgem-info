@@ -69,7 +69,7 @@
             "DescID": "0x766B5D8D"
         },
         "Name": "Lie-in Wait",
-        "Desc": "Doesn't take an action for one to two turns.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User doesn't take an action for one turn and then does a move.\n(Skipped turns still do count as a move.)"
     },
     {
         "IDs": {
@@ -114,7 +114,7 @@
             "DescID": "0x6CB6E434"
         },
         "Name": "Golden Touch",
-        "Desc": "Player recieves +20% more money at the end of the battle."
+        "Desc": "Player receives +20% more money at the end of the battle."
     },
     {
         "IDs": {
@@ -150,7 +150,7 @@
             "DescID": "0x53F9EAB9"
         },
         "Name": "Forgot to Guard",
-        "Desc": "No Yo-kai will guard in battle.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "No Yo-kai can choose to guard during battle.\n(Ignored by skills that make Yo-kai guard when moving from back to front)"
     },
     {
         "IDs": {
@@ -159,7 +159,7 @@
             "DescID": "0x479BB7F7"
         },
         "Name": "Pigskin",
-        "Desc": "User recieves only 50% of the damage from attacks. (Doesn't affect attacks that deal % based damage)"
+        "Desc": "User receives only 50% of the damage from attacks. (Doesn't affect attacks that deal % based damage)"
     },
     {
         "IDs": {
@@ -258,7 +258,7 @@
             "DescID": "0x150E3055"
         },
         "Name": "He Just Nose",
-        "Desc": "Inspirit will always succeed.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User's Inspirit move with no damage will always land on enemy Yo-kai."
     },
     {
         "IDs": {
@@ -312,7 +312,7 @@
             "DescID": "0xD9FF2254"
         },
         "Name": "Night Life",
-        "Desc": "User stats increase by +5% during Night.\n(Doesn't work in online battles)"
+        "Desc": "User receives tier 5 ALL buff during Night.\n(Doesn't work in online battles)"
     },
     {
         "IDs": {
@@ -384,7 +384,7 @@
             "DescID": "0x61ABE4FE"
         },
         "Name": "Rest Less",
-        "Desc": "All Yokai take damage equal to 15% of their max HP when Loafing.\n(User recieves Soultimate charge from hit Yokai.)"
+        "Desc": "All Yokai take damage equal to 15% of their max HP when Loafing.\n(User receives Soultimate charge from hit Yokai.)"
     },
     {
         "IDs": {
@@ -393,7 +393,7 @@
             "DescID": "0xD4864E5B"
         },
         "Name": "The Stand",
-        "Desc": "Will keep 1 HP after a knockout blow once.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user has a 100% chance of retaining 1 HP after a knockout. This skill can be activated a maximum of once per battle."
     },
     {
         "IDs": {
@@ -474,7 +474,7 @@
             "DescID": "0x88AC2D0E"
         },
         "Name": "Soft Skin",
-        "Desc": "User recieves Tier 2 DEF Inspirit buff when dealt critical damage."
+        "Desc": "User receives Tier 2 DEF Inspirit buff when dealt critical damage."
     },
     {
         "IDs": {
@@ -546,7 +546,7 @@
             "DescID": "0x3A882F77"
         },
         "Name": "Dodge",
-        "Desc": "All Soultimate Moves will be dodged.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User dodges all Soultimate hits.\n(Negated by skills that that guarantee a hit or guaranteed inspirits with no damage)"
     },
     {
         "IDs": {
@@ -564,7 +564,7 @@
             "DescID": "0xA3E51208"
         },
         "Name": "Electro Field",
-        "Desc": "Upon recieving damage from Lightning technique,\n user recieves Tier 3 DEF Inspirit Buff."
+        "Desc": "Upon recieving damage from Lightning technique,\n user receives Tier 3 DEF Inspirit Buff."
     },
     {
         "IDs": {
@@ -573,7 +573,7 @@
             "DescID": "0x766B5D8D"
         },
         "Name": "Fast Asleep",
-        "Desc": "Doesn't take an action for one to two turns.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User doesn't take an action for one turn and then does a move.\n(Skipped turns still do count as a move.)"
     },
     {
         "IDs": {
@@ -681,7 +681,7 @@
             "DescID": "0x0FD389EC"
         },
         "Name": "Good Fortune",
-        "Desc": "Player recieves +20% more money at the end of the battle."
+        "Desc": "Player receives +20% more money at the end of the battle."
     },
     {
         "IDs": {
@@ -798,7 +798,7 @@
             "DescID": "0x479BB7F7"
         },
         "Name": "Carefree Spirit",
-        "Desc": "User recieves only 50% of the damage from attacks. (Doesn't affect attacks that deal % based damage)"
+        "Desc": "User receives only 50% of the damage from attacks. (Doesn't affect attacks that deal % based damage)"
     },
     {
         "IDs": {
@@ -861,7 +861,7 @@
             "DescID": "0x392ACB4A"
         },
         "Name": "Oily Mess",
-        "Desc": "Extends time allowed to spin Yo-kai Wheel.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Extends time allowed to spin Yo-kai Wheel by 5 seconds.\n(Negates Spin-no-rama skill)"
     },
     {
         "IDs": {
@@ -870,7 +870,7 @@
             "DescID": "0x150E3055"
         },
         "Name": "Ultimate Dark",
-        "Desc": "Inspirit will always succeed.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User's Inspirit move with no damage will always land on enemy Yo-kai."
     },
     {
         "IDs": {
@@ -906,7 +906,7 @@
             "DescID": "0x6879C410"
         },
         "Name": "Pompadour",
-        "Desc": "Will dodge enemy headbutt attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User dodges all head-type attacks.\n(Head-type attack list: Headbutt, Headsmack, Earthsplitter)"
     },
     {
         "IDs": {
@@ -933,7 +933,7 @@
             "DescID": "0x4E2DFBDC"
         },
         "Name": "Washed Out",
-        "Desc": "User's stats decrease by 10% when inspired by enemy."
+        "Desc": "User's stats decrease by -10% when inspirited by enemy."
     },
     {
         "IDs": {
@@ -969,7 +969,7 @@
             "DescID": "0x0FD389EC"
         },
         "Name": "Stealing",
-        "Desc": "Player recieves +20% more money at the end of the battle."
+        "Desc": "Player receives +20% more money at the end of the battle."
     },
     {
         "IDs": {
@@ -1041,7 +1041,7 @@
             "DescID": "0x96DAD856"
         },
         "Name": "Greed",
-        "Desc": "Foe will be more prone to drop items.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User increases chances of foes dropping common item after the battle by +20%."
     },
     {
         "IDs": {
@@ -1113,7 +1113,7 @@
             "DescID": "0xD4864E5B"
         },
         "Name": "Endurance",
-        "Desc": "Will keep 1 HP after a knockout blow once.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "The user has a 100% chance of retaining 1 HP after a knockout. This skill can be activated a maximum of once per battle."
     },
     {
         "IDs": {
@@ -1131,7 +1131,7 @@
             "DescID": "0xB7874F46"
         },
         "Name": "Unpopularity",
-        "Desc": "Makes foes less likely to become your friend.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Enemy Yo-kai are less likely to befriend player. (Effect ranges from -10% down to -0.05% depending on befriending Yo-kai)"
     },
     {
         "IDs": {
@@ -1158,7 +1158,7 @@
             "DescID": "0x959F8446"
         },
         "Name": "Night Guard",
-        "Desc": "Dodges all Soultimate Moves.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User dodges all Soultimate hits.\n(Negated by skills that that guarantee a hit or guaranteed inspirits with no damage)"
     },
     {
         "IDs": {
@@ -1212,7 +1212,7 @@
             "DescID": "0x766B5D8D"
         },
         "Name": "Just a Minute",
-        "Desc": "Doesn't take an action for one to two turns.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User doesn't take an action for one turn and then does a move.\n(Skipped turns still do count as a move.)"
     },
     {
         "IDs": {
@@ -1257,7 +1257,7 @@
             "DescID": "0xC0807FD0"
         },
         "Name": "Popularity",
-        "Desc": "Makes more foes befriend you.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Enemy Yo-kai are much likely to befriend player. (Effect ranges from +10% down to +1% depending on befriending Yo-kai)"
     },
     {
         "IDs": {
@@ -1608,7 +1608,7 @@
             "DescID": "0x59892E6A"
         },
         "Name": "Hard Worker",
-        "Desc": "User recieves +20% more experience points at the end of the battle."
+        "Desc": "User receives +20% more experience points at the end of the battle."
     },
     {
         "IDs": {
@@ -1635,7 +1635,7 @@
             "DescID": "0xB7E32383"
         },
         "Name": "Polarity",
-        "Desc": "Builds STR as Soul Meter refills.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User receives +1% boost to all stats for every 10 soulmeter points."
     },
     {
         "IDs": {
@@ -1644,7 +1644,7 @@
             "DescID": "0x91D3708A"
         },
         "Name": "Waterworks",
-        "Desc": "Water attacks restore HP.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "When user is hit by water attack, its damage is transformed into healing instead."
     },
     {
         "IDs": {
@@ -1662,7 +1662,7 @@
             "DescID": "0xF8C6D981"
         },
         "Name": "Born Winner",
-        "Desc": "Increases chance of dodging attacks by 25%.\n(Can stack)"
+        "Desc": "Increases chance of dodging attacks by 25%.\n(Can stack.)"
     },
     {
         "IDs": {
@@ -1671,7 +1671,7 @@
             "DescID": "0x85D54101"
         },
         "Name": "Clairvoidance",
-        "Desc": "Increases chance of dodging by 15%.\n(Can stack)"
+        "Desc": "Increases chance of dodging by 15%.\n(Can stack.)"
     },
     {
         "IDs": {
