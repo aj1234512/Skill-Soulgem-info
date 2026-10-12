@@ -69,7 +69,7 @@
             "DescID": "0x766B5D8D"
         },
         "Name": "Lie-in Wait",
-        "Desc": "User doesn't take an action for one turn and then does a move."
+        "Desc": "User doesn't take an action for one turn and then does a move.\n(Skipped turns still do count as a move.)"
     },
     {
         "IDs": {
@@ -573,7 +573,7 @@
             "DescID": "0x766B5D8D"
         },
         "Name": "Fast Asleep",
-        "Desc": "User doesn't take an action for one turn and then does a move."
+        "Desc": "User doesn't take an action for one turn and then does a move.\n(Skipped turns still do count as a move.)"
     },
     {
         "IDs": {
@@ -1212,7 +1212,7 @@
             "DescID": "0x766B5D8D"
         },
         "Name": "Just a Minute",
-        "Desc": "User doesn't take an action for one turn and then does a move."
+        "Desc": "User doesn't take an action for one turn and then does a move.\n(Skipped turns still do count as a move.)"
     },
     {
         "IDs": {
