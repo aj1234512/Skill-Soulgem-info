@@ -4,49 +4,49 @@
             "SkillID": "0x70618DD7",
             "DescID": "0x48C96236"
         },
-        "Desc": "Takes less damage from Water attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User takes -30% less damage from Water techniques."
     },
     {
         "IDs": {
             "SkillID": "0x5651DEDE",
             "DescID": "0x6EF9313F"
         },
-        "Desc": "Has slightly reduced chance of being Inspirited.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User is has -10% less chance of being inspirited."
     },
     {
         "IDs": {
             "SkillID": "0x5FE792F5",
             "DescID": "0x674F7D14"
         },
-        "Desc": "Receive more money after a battle.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Player receives +15% more money after the battle."
     },
     {
         "IDs": {
             "SkillID": "0xB85FBFF2",
             "DescID": "0x80F75013"
         },
-        "Desc": "Has greatly reduced chance of being Inspirited.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Reduces chances of being inspirted by -30%."
     },
     {
         "IDs": {
             "SkillID": "0xB22F7B21",
             "DescID": "0x8A8794C0"
         },
-        "Desc": "Takes slightly less damage from Fire attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User takes -20% less damage from Fire Techniques."
     },
     {
         "IDs": {
             "SkillID": "0x2C4BEE82",
             "DescID": "0x74248886"
         },
-        "Desc": "DEF\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "DEF +30."
     },
     {
         "IDs": {
             "SkillID": "0xDB5EBEEF",
             "DescID": "0x7AFF00B4"
         },
-        "Desc": "STR\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "STR +30."
     },
     {
         "IDs": {
@@ -60,84 +60,84 @@
             "SkillID": "0x5A8EB423",
             "DescID": "0x62265BC2"
         },
-        "Desc": "Adjacent Yo-kai get a SPD boost.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Adjacent Yo-kai get +20% SPD boost."
     },
     {
         "IDs": {
             "SkillID": "0x55975626",
             "DescID": "0x6D3FB9C7"
         },
-        "Desc": "Takes much less damage from Fire attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User takes -40% less damage from Fire Techniques."
     },
     {
         "IDs": {
             "SkillID": "0xE8AAB65A",
             "DescID": "0xD00259BB"
         },
-        "Desc": "Gets slight boost to stats when front and center.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User gets +10% boost to all stats when in front center."
     },
     {
         "IDs": {
             "SkillID": "0x54553C11",
             "DescID": "0x6CFDD3F0"
         },
-        "Desc": "Gets a DEF boost when front and center.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User gets +30% DEF boost when in front center."
     },
     {
         "IDs": {
             "SkillID": "0xFD6EEDE6",
             "DescID": "0xC5C60207"
         },
-        "Desc": "Absorbs some HP when an attack is successful.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User restores HP from 20% of the damage dealt to enemies with Physical attacks."
     },
     {
         "IDs": {
             "SkillID": "0x990228E2",
             "DescID": "0xA1AAC703"
         },
-        "Desc": "Takes less damage from Earth attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User takes -30% less damage from Earth Techniques."
     },
     {
         "IDs": {
             "SkillID": "0x09BD3573",
             "DescID": "0x3115DA92"
         },
-        "Desc": "Takes much less damage from Earth attacks.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User takes -40% less damage from Earth Techniques."
     },
     {
         "IDs": {
             "SkillID": "0x453A2B4C",
             "DescID": "0x7D92C4AD"
         },
-        "Desc": "SPR\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "SPR +20."
     },
     {
         "IDs": {
             "SkillID": "0xAC598E79",
             "DescID": "0x7AFF00B4"
         },
-        "Desc": "STR\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "STR +40."
     },
     {
         "IDs": {
             "SkillID": "0xEA49ECB8",
             "DescID": "0xD2E10359"
         },
-        "Desc": "When defeated, the enemy takes a little damage.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "Deals 30 BP Physical damage to the attacker when defeated.\nDamage scales with user's STR."
     },
     {
         "IDs": {
             "SkillID": "0x5C211A0D",
             "DescID": "0x8DEA50D9"
         },
-        "Desc": "SPD\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "SPD +30."
     },
     {
         "IDs": {
             "SkillID": "0x9372EC31",
             "DescID": "0xABDA03D0"
         },
-        "Desc": "Enemies' guard becomes less effective.\n(IN-GAME DESCRIPTION; OPEN TO MISTRANSLATIONS OR VAGUE/WRONG DESCRIPTIONS)"
+        "Desc": "User's Physical attacks ignore 100% of the enemy's Guard."
     },
     {
         "IDs": {

@@ -1653,7 +1653,7 @@
             "DescID": "0xA3817ECD"
         },
         "Name": "Guard Break",
-        "Desc": "User's physical attack ignore enemy's Guard and deal 100% of the damage."
+        "Desc": "User's physical attacks ignore 100% of the enemy's Guard."
     },
     {
         "IDs": {
