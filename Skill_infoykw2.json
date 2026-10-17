@@ -429,7 +429,7 @@
             "DescID": "0x3DE5EB6E"
         },
         "Name": "Blazing Spirit",
-        "Desc": "Grants Tier 4 STR and SPR Inspirit buff when ally is defeated."
+        "Desc": "Grants Tier 2 STR and SPR Inspirit buff when ally is defeated."
     },
     {
         "IDs": {
@@ -780,7 +780,7 @@
             "DescID": "0x3DE5EB6E"
         },
         "Name": "Shining Spirit",
-        "Desc": "Grants Tier 4 STR and SPR Inspirit buff when ally is defeated."
+        "Desc": "Grants Tier 2 STR and SPR Inspirit buff when ally is defeated."
     },
     {
         "IDs": {
@@ -1545,7 +1545,7 @@
             "DescID": "0x3DE5EB6E"
         },
         "Name": "Courageous Spirit",
-        "Desc": "Grants Tier 4 STR and SPR Inspirit buff when ally is defeated."
+        "Desc": "Grants Tier 2 STR and SPR Inspirit buff when ally is defeated."
     },
     {
         "IDs": {
