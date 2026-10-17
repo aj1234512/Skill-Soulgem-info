@@ -906,7 +906,7 @@
             "DescID": "0x6879C410"
         },
         "Name": "Pompadour",
-        "Desc": "User dodges all head-type attacks.\n(Head-type attack list: Headbutt, Headsmack, Earthsplitter)"
+        "Desc": "User dodges all head-type attacks.\n(Head-type attack list: Headbutt, Headsmack, Earthsplitter, Headbutt HEY-O!)"
     },
     {
         "IDs": {
@@ -1653,7 +1653,7 @@
             "DescID": "0xA3817ECD"
         },
         "Name": "Guard Break",
-        "Desc": "User's physical attack ignore enemy's Guard and deal 100% of the damage."
+        "Desc": "User's physical attacks ignore 100% of the enemy's Guard."
     },
     {
         "IDs": {
